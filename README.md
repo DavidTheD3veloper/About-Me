@@ -11,3 +11,6 @@ Yes, I do have a girlfriend. I love her so much.
 
 # Additional message from me:
 I’m always curious about learning new technologies and improving my skills, and I enjoy combining my love for coding and gaming by experimenting with game mechanics, automation, and small creative projects.
+
+
+Here on this GitHub profile, I'll post the source code of my games, and my programs.
